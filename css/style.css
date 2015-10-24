@@ -46,7 +46,12 @@ body{
     z-index:2;
 }
 .name{
-	padding-top: 30px;
+	padding-top: 25px;
 	font-size: 30px;
     font-family: "Comic Sans MS";
+}
+.about_img{
+	float: left;
+	border-radius: 10px;
+	margin-right: 20px;
 }
